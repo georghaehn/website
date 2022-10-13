@@ -1,19 +1,14 @@
 ---
-abstract: "Microbial respiration is critical for soil carbon balance and ecosystem functioning. Previous studies suggest that plant diversity influences soil microbial communities and their respiration. Yet, the linkages between tree diversity, microbial biomass, microbial diversity, and microbial functioning have rarely been explored. In this study, we measured two microbial functions (microbial physiological potential, and microbial respiration), together with microbial biomass, microbial taxonomic and functional profiles, and soil chemical properties in a tree diversity experiment in South China, to disentangle how tree diversity affects microbial respiration through the modifications of the microbial community. Our analyses show a significant positive effect of tree diversity on microbial biomass (+25% from monocultures to 24-species plots), bacterial diversity (+12%), and physiological potential (+12%). In addition, microbial biomass and physiological potential, but not microbial diversity, were identified as the key drivers of microbial respiration. Although soil chemical properties strongly modulated soil microbial community, tree diversity increased soil microbial respiration by increasing microbial biomass rather than changing microbial taxonomic or functional diversity. Overall, our findings suggest a prevalence of microbial biomass over diversity in controlling soil carbon dynamics."
+abstract: "A species` realized niche can be analysed by the species’ relationship to other residents in the community. The trait distances of species present in a community, i.e. functional diversity, was a common approach adopted in the past. However, while plant species do have a unique combination of functional traits, they also represent the endpoint of unique evolutionary histories. Therefore, considering the phylogenetic relatedness of resident species in a community might also help understanding the niche differentiation in this community. But functional and phylogenetic species relatedness might differ based on climatic conditions and vegetation-types. 
+We used the “sPlot” vegetation-plot database to tackle the question how functional and phylogenetic diversity relates and globally distributes. Our results suggests that functional and phylogenetic diversity are negatively correlated, and that they vary from high to low levels at relatively close geographical distances. Phylogenetic diversity depends on climatic change after the last glacial maximum and biome."
 
 authors:
 - admin
-- Jianqing Du
-- Simone Cesarz
-- Stephanie D. Jurburg
-- Zhe Pang
-- Bala Singavarapu
-- Tesfaye Wubet
-- Kai Xue
-- Yanfen Wang
-- Nico Eisenhauer 
+- Francesco M. Sabatini
+- Gabriella Damasceno
+- Helge Bruelheide
 date: "2021-08-23T00:00:00Z"
-doi: "10.1038/s43705-021-00040-0"
+doi: ""
 featured: true
 image:
   caption: 'The Jena Experiment. Photo: Christoph Scherber'
