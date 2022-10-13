@@ -7,29 +7,27 @@ authors:
 - Francesco M. Sabatini
 - Gabriella Damasceno
 - Helge Bruelheide
-date: "2021-08-23T00:00:00Z"
+date: "2023-08-23T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'The Jena Experiment. Photo: Christoph Scherber'
+  caption: ''
   focal_point: ""
   preview_only: false
-projects: [TreeDi]
-publication: '*ISME Communications* (1)'
+projects: [sPlot]
+publication: '*TBA*'
 publication_short: ""
 publication_types: ""
-publishDate: "2021-08-23T00:00:00Z"
+publishDate: ""
 slides: 
 summary: 
 tags:
-- BEF
-- Forest diversity
-- BEF China
-- Microbial community
-- Microbial function
+- Diversity
+- PD
+- FD
 
 
-title: Tree diversity and soil chemical properties drive the linkages between soil microbial community and ecosystem functioning
+title: Comparison of the global distribution of functional and phylogenetic diversity in plant communities.
 url_code: ""
 url_dataset: ""
 url_pdf: "/publication/Beugnon et al 2021/Beugnon et al 2021.pdf"
