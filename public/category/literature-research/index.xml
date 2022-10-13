@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>literature research | Georg Hähn</title>
-    <link>/category/literature-research/</link>
-      <atom:link href="/category/literature-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://georghaehn.netlify.app/category/literature-research/</link>
+      <atom:link href="https://georghaehn.netlify.app/category/literature-research/index.xml" rel="self" type="application/rss+xml" />
     <description>literature research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://georghaehn.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>literature research</title>
-      <link>/category/literature-research/</link>
+      <link>https://georghaehn.netlify.app/category/literature-research/</link>
     </image>
     
     <item>
       <title>Hot in Press</title>
-      <link>/post/hot-in-press/</link>
+      <link>https://georghaehn.netlify.app/post/hot-in-press/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/post/hot-in-press/</guid>
+      <guid>https://georghaehn.netlify.app/post/hot-in-press/</guid>
       <description>
-&lt;script src=&#34;/post/hot-in-press/index.en_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;/post/hot-in-press/index.en_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://georghaehn.netlify.app/post/hot-in-press/index.en_files/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://georghaehn.netlify.app/post/hot-in-press/index.en_files/lightable/lightable.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
 
 &lt;div id=&#34;in-press-this-week&#34; class=&#34;section level2&#34;&gt;

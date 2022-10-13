@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesco M. Sabatini | Georg Hähn</title>
-    <link>/author/francesco-m.-sabatini/</link>
-      <atom:link href="/author/francesco-m.-sabatini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://georghaehn.netlify.app/author/francesco-m.-sabatini/</link>
+      <atom:link href="https://georghaehn.netlify.app/author/francesco-m.-sabatini/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesco M. Sabatini</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://georghaehn.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Francesco M. Sabatini</title>
-      <link>/author/francesco-m.-sabatini/</link>
+      <link>https://georghaehn.netlify.app/author/francesco-m.-sabatini/</link>
     </image>
     
     <item>
       <title>sPlot</title>
-      <link>/project/splot/</link>
+      <link>https://georghaehn.netlify.app/project/splot/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/splot/</guid>
+      <guid>https://georghaehn.netlify.app/project/splot/</guid>
       <description>&lt;p&gt;The Global Vegetation Database OR Where I learned to wrangle data&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.idiv.de/en/splot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sPlot&lt;/a&gt; - The Global Vegetation Database: sPlot is the largest repository for plant community data in the world, containing almost 2 million records with full lists of plant species co-occurring in small areas (plots). The facility was first established as a working group funded by sDiv, then assumed as an iDiv research platform. By integrating national and continental vegetation databases, sPlot aims at understanding global patterns in plant diversity across facets, biomes and scales.&lt;/p&gt;
 &lt;p&gt;Supervised by Francesco M. Sabatini I prepared and included new vegetation data for the database since 2020. Due to the fantastic supervision I was soon very engaged to the idea of a master thesis investigating how functional and phylogenetic diversity distributes globally in vascular plant communities. To understand this relationship we created the &lt;a href=&#34;https://www.idiv.de/fileadmin/content/Files_sPlot/Documents/FAMILY-TREE_sPlot3.0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phylogenetic backbone&lt;/a&gt; for sPlot and used the existing link to the trait database &lt;a href=&#34;https://www.try-db.org/TryWeb/Home.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRY&lt;/a&gt; to calculate functional and phylogenetic diversity for almost two million vegetation plots. Surprising results in progess &amp;hellip;&lt;/p&gt;

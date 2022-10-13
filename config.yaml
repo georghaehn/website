@@ -1,6 +1,6 @@
 theme: starter-academic
 title: "Georg Hähn"
-#baseurl: 'https://remybeugnon.netlify.app/'
+baseurl: 'https://georghaehn.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
