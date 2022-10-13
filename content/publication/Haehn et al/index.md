@@ -7,7 +7,7 @@ authors:
 - Francesco M. Sabatini
 - Gabriella Damasceno
 - Helge Bruelheide
-date: "2021-08-23T00:00:00Z"
+date: "2023-05-23T00:00:00Z"
 doi: "10.1038/s43705-021-00040-0"
 featured: true
 image:
@@ -15,10 +15,10 @@ image:
   focal_point: ""
   preview_only: false
 projects: [sPlot]
-publication: '*ISME Communications* (1)'
+publication: '*TBA* (1)'
 publication_short: ""
 publication_types: ""
-publishDate: "2021-08-23T00:00:00Z"
+publishDate: "2023-05-23T00:00:00Z"
 slides: 
 summary: 
 tags:
