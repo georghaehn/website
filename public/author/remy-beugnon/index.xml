@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rémy Beugnon | Georg Hähn</title>
+    <link>/author/remy-beugnon/</link>
+      <atom:link href="/author/remy-beugnon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rémy Beugnon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Rémy Beugnon</title>
+      <link>/author/remy-beugnon/</link>
+    </image>
+    
+    <item>
+      <title>TreeDì</title>
+      <link>/project/treedi/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/treedi/</guid>
+      <description>&lt;p&gt;International Research Training Group TreeDì (GRK 2324)&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://www.idiv.de/en/treedi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TreeDì - 林地&lt;/a&gt; - Tree Diversity Interactions: The role of tree-tree interactions in local neighborhood in Chinese subtropical forests&amp;rdquo; is an International Research Training Group funded by the German Research Foundation (DFG) and the University of Chinese Academy of Sciences (UCAS).&lt;/p&gt;
+&lt;p&gt;Biodiversity-Ecosystem-Functioning (BEF) research in forests has become a vibrant field of research in the last decade. The aim of TreeDì - 林地 (lín dì, forest land) is to understand how tree-tree interactions in local neighborhood of varying diversity translate into the observed positive tree species richness effects on key ecosystem functions at the community scale. Tree-tree interactions range from above- and belowground competition to resource use complementarity and facilitation. In-depth knowledge of each interaction type and interdisciplinary teamwork are essential to understand the underlying processes. All research projects are carried out on the BEF-China platform in subtropical China  - the largest forest BEF experiment worldwide.&lt;/p&gt;
+&lt;p&gt;In the sub-project (&lt;a href=&#34;https://www.idiv.de/en/web/treedi/research_projects.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;P8G&lt;/a&gt;), I was supervised by &lt;a href=&#34;https://remybeugnon.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rémy Beugnon&lt;/a&gt; focusing on litter functional dissimilarity effects on litter decomposition based on a common garden approach (&lt;a href=&#34;files/bachelorarbeit_georg.haehn_18.08.2020.pdf&#34;&gt;B.Sc. thesis&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
