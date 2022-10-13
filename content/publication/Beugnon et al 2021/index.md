@@ -18,7 +18,7 @@ projects: [sPlot]
 publication: '*TBA*'
 publication_short: ""
 publication_types: ""
-publishDate: ""
+publishDate: "2023-08-23T00:00:00Z"
 slides: 
 summary: 
 tags:
@@ -30,7 +30,7 @@ tags:
 title: Comparison of the global distribution of functional and phylogenetic diversity in plant communities.
 url_code: ""
 url_dataset: ""
-url_pdf: "/publication/Beugnon et al 2021/Beugnon et al 2021.pdf"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
