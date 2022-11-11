@@ -1,5 +1,6 @@
 ---
 abstract: A species` realized niche, the range under which a species actually occurs, can be analysed by the species’ relationship to other residents in the community. In the past the trait distances of species present in a community was the common approach, i.e. functional diversity. While plant species do have a unique combination of functional traits, they also represent the endpoint of unique evolutionary histories. Considering the phylogenetic relatedness of the resident species in a community might help understanding the niche differentiation in this community. We used the “sPlot” vegetation-plot database to tackle the question how functional and phylogenetic diversity relates and distributes in the world. Our results suggests that functional and phylogenetic diversity are negatively correlated, and they occur from high to low at relatively close geographical distances. Furthermore, phylogenetic diversity depends on climatic change after the last glacial maximum, as well as on the biome of the plant community.
+
 all_day: true
 authors: ["admin"]
 date: "2022-09-05T00:00:00Z"
