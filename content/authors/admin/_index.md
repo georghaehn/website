@@ -2,12 +2,12 @@
 bio: I am a curator of the vegetation-database [sPlot](https://www.idiv.de/en/splot.html) and looking for a PhD position in the field of plant-community assembladge and ecosystem functioning.
 email: "georg.haehn@idiv.de"
 organizations:
-- name: German Center for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig 
-  url: "https://www.idiv.de/en"
-  role: Research assistant
 - name: Martin Luther University Halle-Wittenberg
   url: "https://www.botanik.uni-halle.de/"
   role: Research Assistant
+- name: German Center for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig 
+  url: "https://www.idiv.de/en"
+  role: Research assistant
 social:
 - icon: envelope
   icon_pack: fas
@@ -21,9 +21,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/georghaehn
-# - icon: orcid
-#   icon_pack: fab
-#   link: 
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/my-orcid?orcid=0000-0003-3733-1498
 # - icon: publons
 #   icon_pack: ai
 #   link: 
@@ -32,7 +32,7 @@ social:
   link: 'files/CV_georg-haehn.pdf'
   
 superuser: false
-title: Georg Hähn
+title: Georg J. A. Hähn
 user_groups: ["Researchers"]
 ---
 
