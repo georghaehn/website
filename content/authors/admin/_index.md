@@ -31,7 +31,7 @@ social:
   icon_pack: ai
   link: 'files/CV_georg-haehn.pdf'
   
-superuser: false
+superuser: true
 title: Georg J. A. Hähn
 user_groups: ["Researchers"]
 ---
