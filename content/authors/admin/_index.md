@@ -1,5 +1,5 @@
 ---
-bio: I am a curator of the vegetation-database [sPlot](https://www.idiv.de/en/splot.html) and looking for a PhD position in the field of plant-community assembladge and ecosystem functioning.
+bio: I am Georg [sPlot](https://www.idiv.de/en/splot.html) and looking for a PhD position in the field of plant-community assembladge and ecosystem functioning.
 email: "georg.haehn@idiv.de"
 organizations:
 - name: Martin Luther University Halle-Wittenberg
