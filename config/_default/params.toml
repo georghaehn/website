@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "georg.haehn@idiv.de"
+email = "georgjohannes.hahn@unibo.it"
 #phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Große Steinstraße 79/80", city = "Halle (Saale)", region = "", postcode = "06108", country = "Germany", country_code = "DE"}
+address = {street = "Via Irnerio 42", city = "Bologna", region = "", postcode = "40126", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
