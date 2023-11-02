@@ -5,7 +5,7 @@
     <link>https://georghaehn.netlify.app/</link>
       <atom:link href="https://georghaehn.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Georg J. A. Hähn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://georghaehn.netlify.app/images/icon_hu54004ebffef1e42da317f03357487f6c_536244_512x512_fill_lanczos_center_2.png</url>
       <title>Georg J. A. Hähn</title>
@@ -108,10 +108,18 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Comparison of the global distribution of functional and phylogenetic diversity in plant communities.</title>
-      <link>https://georghaehn.netlify.app/publication/haehn-et-al-2023/</link>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://georghaehn.netlify.app/publication/haehn-et-al-2023/</guid>
+      <title>Vegetation of Southern Patagonia in the 1970s – Digitization of a gray-literature data set as a monitoring baseline in a changing world</title>
+      <link>https://georghaehn.netlify.app/publication/sabatini-et-al-2023/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/publication/sabatini-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree diversity effects on litter decomposition are mediated by litterfall and microbial processes</title>
+      <link>https://georghaehn.netlify.app/publication/beugnon-et-al-2023/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/publication/beugnon-et-al-2023/</guid>
       <description></description>
     </item>
     

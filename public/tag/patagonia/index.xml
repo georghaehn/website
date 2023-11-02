@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patagonia | Georg J. A. Hähn</title>
+    <link>https://georghaehn.netlify.app/tag/patagonia/</link>
+      <atom:link href="https://georghaehn.netlify.app/tag/patagonia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patagonia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georghaehn.netlify.app/images/icon_hu54004ebffef1e42da317f03357487f6c_536244_512x512_fill_lanczos_center_2.png</url>
+      <title>Patagonia</title>
+      <link>https://georghaehn.netlify.app/tag/patagonia/</link>
+    </image>
+    
+    <item>
+      <title>Vegetation of Southern Patagonia in the 1970s – Digitization of a gray-literature data set as a monitoring baseline in a changing world</title>
+      <link>https://georghaehn.netlify.app/publication/sabatini-et-al-2023/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/publication/sabatini-et-al-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
