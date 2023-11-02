@@ -3,9 +3,9 @@ bio: I am currently looking for a PhD position in the field of plant-community a
 email: "georg.haehn@idiv.de"
 organizations:
 - name: BIOME Lab
-        Department of Biological, Geological and Environmental Sciences (BiGeA)
-        Alma Mater Studiorum University of Bologna
   url: "https://bigea.unibo.it/en/research/research-groups/biome"
+- name: Department of Biological, Geological and Environmental Sciences (BiGeA)
+- name: Alma Mater Studiorum University of Bologna
 social:
 - icon: envelope
   icon_pack: fas

@@ -3,7 +3,7 @@ abstract: "Forest ecosystems are critical for their carbon sequestration potenti
 "
 
 authors: 
-- Rémy Beugnon - Nico Eisenhauer - Helge Bruelheide - Andréa Davrinche - Jianqing Du - Sylvia Haider - admin - Mariem Saadani - Bala Singavarapu - Marie Sünnemann - Lise Thouvenot - Yanfen Wang - Tesfaye Wubet - Kai Xue - Simone Cesarz
+- Rémy Beugnon - Nico Eisenhauer - Helge Bruelheide - Andréa Davrinche - Jianqing Du - Sylvia Haider - Georg Hähn - Mariem Saadani - Bala Singavarapu - Marie Sünnemann - Lise Thouvenot - Yanfen Wang - Tesfaye Wubet - Kai Xue - Simone Cesarz
 date: "2023-07-12T00:00:00Z"
 doi: "https://doi.org/10.1111/oik.09751"
 featured: true
