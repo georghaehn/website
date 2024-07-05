@@ -1,5 +1,5 @@
 ---
-bio: I am currently looking for a PhD position in the field of plant-community assembladge and ecosystem functioning.
+bio: My research focus on community assembly processes, microclimate, forests & plant diversity.
 email: "georg.haehn@idiv.de"
 organizations:
 - name: BIOME Lab
@@ -45,8 +45,7 @@ div {
 
 In time of profound biodiversity crisis, we still know little about biodiversity distribution, which might hinder conservation efforts. I want to understand the distribution of plant biodiversity and where it might be able to survive recent and future climate change.
 
-In my PhD I investigate how structural complex forests are able to buffer 
-climate change and their potential in being save havens for biodiversity.
+In my PhD I investigate how structural complex forests are able to buffer climate change and their potential in being save havens for biodiversity.
 Stay tuned!
 
 <!--- In my [master thesis](files/master-thesis_final_GH.pdf) I focused on the comparison of the global distribution of functional and phylogenetic diversity in plant communities. To study this topic, I worked with the global plot-based vegetation database [sPlot](https://www.idiv.de/en/splot.html) and created the [phylogenetic backbone](https://www.idiv.de/fileadmin/content/Files_sPlot/Documents/FAMILY-TREE_sPlot3.0.pdf) for the database. Based on this backbone and information on functional traits from the database [TRY](https://www.try-db.org/TryWeb/Home.php) I calculated phylogenetic and functional diversity for 1.8 million vegetation plots.
