@@ -5,12 +5,31 @@
     <link>https://georghaehn.netlify.app/author/georg-j.-a.-hahn/</link>
       <atom:link href="https://georghaehn.netlify.app/author/georg-j.-a.-hahn/index.xml" rel="self" type="application/rss+xml" />
     <description>Georg J. A. Hähn</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 12:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 12:15:00 +0000</lastBuildDate>
     <image>
       <url>https://georghaehn.netlify.app/author/georg-j.-a.-hahn/avatar_hubac488b0ee4028e529064ec692d55159_578148_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Georg J. A. Hähn</title>
       <link>https://georghaehn.netlify.app/author/georg-j.-a.-hahn/</link>
     </image>
+    
+    <item>
+      <title>First Year PhD Recap</title>
+      <link>https://georghaehn.netlify.app/talk/first-year-phd-recap/</link>
+      <pubDate>Tue, 10 Sep 2024 12:15:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/talk/first-year-phd-recap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old-growth forest as microclimate refugia</title>
+      <link>https://georghaehn.netlify.app/project/ogf/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/project/ogf/</guid>
+      <description>&lt;p&gt;The journey of my PhD.&lt;/p&gt;
+&lt;p&gt;In time of profound biodiversity crisis, we still know little about biodiversity distribution, which might hinder conservation efforts. I want to understand the distribution of plant biodiversity and where it might be able to survive recent and future climate change.&lt;/p&gt;
+&lt;p&gt;In my PhD I investigate how structural complex forests are able to buffer climate change and their potential in being save havens for biodiversity.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BES 2022 Annual Meeting</title>
@@ -35,7 +54,7 @@
       <guid>https://georghaehn.netlify.app/project/splot/</guid>
       <description>&lt;p&gt;The Global Vegetation Database OR Where I learned to wrangle data&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.idiv.de/en/splot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sPlot&lt;/a&gt; - The Global Vegetation Database: sPlot is the largest repository for plant community data in the world, containing almost 2 million records with full lists of plant species co-occurring in small areas (plots). The facility was first established as a working group funded by sDiv, then assumed as an iDiv research platform. By integrating national and continental vegetation databases, sPlot aims at understanding global patterns in plant diversity across facets, biomes and scales.&lt;/p&gt;
-&lt;p&gt;Supervised by Francesco M. Sabatini I prepared and included new vegetation data for the database since 2020. Due to the fantastic supervision I was soon very engaged to the idea of a master thesis investigating how functional and phylogenetic diversity distributes globally in vascular plant communities. To understand this relationship we created the &lt;a href=&#34;https://www.idiv.de/fileadmin/content/Files_sPlot/Documents/FAMILY-TREE_sPlot3.0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phylogenetic backbone&lt;/a&gt; for sPlot and used the existing link to the trait database &lt;a href=&#34;https://www.try-db.org/TryWeb/Home.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRY&lt;/a&gt; to calculate functional and phylogenetic diversity for almost two million vegetation plots. Surprising results in progess &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Supervised by Francesco M. Sabatini I prepared and included new vegetation data for the database since 2020. Due to the fantastic supervision I was soon very engaged to the idea of a master thesis investigating how functional and phylogenetic diversity distributes globally in vascular plant communities. To understand this relationship we created the &lt;a href=&#34;https://www.idiv.de/fileadmin/content/Files_sPlot/Documents/FAMILY-TREE_sPlot3.0.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;phylogenetic backbone&lt;/a&gt; for sPlot and used the existing link to the trait database &lt;a href=&#34;https://www.try-db.org/TryWeb/Home.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TRY&lt;/a&gt; to calculate functional and phylogenetic diversity for almost two million vegetation plots. Surprising results can be found &lt;a href=&#34;https://www.nature.com/articles/s41559-024-02589-0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

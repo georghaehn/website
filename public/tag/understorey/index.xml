@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understorey | Georg J. A. Hähn</title>
+    <link>https://georghaehn.netlify.app/tag/understorey/</link>
+      <atom:link href="https://georghaehn.netlify.app/tag/understorey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Understorey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://georghaehn.netlify.app/images/icon_hu54004ebffef1e42da317f03357487f6c_536244_512x512_fill_lanczos_center_2.png</url>
+      <title>Understorey</title>
+      <link>https://georghaehn.netlify.app/tag/understorey/</link>
+    </image>
+    
+    <item>
+      <title>Old-growth forest as microclimate refugia</title>
+      <link>https://georghaehn.netlify.app/project/ogf/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://georghaehn.netlify.app/project/ogf/</guid>
+      <description>&lt;p&gt;The journey of my PhD.&lt;/p&gt;
+&lt;p&gt;In time of profound biodiversity crisis, we still know little about biodiversity distribution, which might hinder conservation efforts. I want to understand the distribution of plant biodiversity and where it might be able to survive recent and future climate change.&lt;/p&gt;
+&lt;p&gt;In my PhD I investigate how structural complex forests are able to buffer climate change and their potential in being save havens for biodiversity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

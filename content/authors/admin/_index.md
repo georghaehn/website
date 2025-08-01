@@ -10,21 +10,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgHaehn
+# - icon: fa-bluesky
+#   icon_pack: fab
+#   link: https://bsky.app/profile/georghaehn.bsky.social
 # - icon: graduation-cap
 #   icon_pack: fas
 #   link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/georghaehn
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Georg-Haehn-2
+# - icon: fa-google-scholar
+#   icon_pack: fab
+#   link: https://scholar.google.com/citations?user=HdBLI4oAAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/my-orcid?orcid=0000-0003-3733-1498
-# - icon: publons
-#   icon_pack: ai
-#   link: 
 - icon: cv
   icon_pack: ai
   link: 'files/CV_georg-haehn.pdf'
