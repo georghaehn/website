@@ -270,10 +270,10 @@ plugins_js  = []
 ############################
 ## Marketing
 ############################
-#[marketing]
-#  google_analytics = "G-9C49YCLK1J"
-#  google_tag_manager = ""
-#  google_site_verification = ""
+[marketing]
+  google_analytics = "G-ZJTVPMLMXK"
+  google_tag_manager = "G-ZJTVPMLMXK"
+  google_site_verification = "jr1S046I46XDcpXCvvyYBajcxbiZj_oCGKfICJMEo9Y"
 
 ############################
 ## Content Management System
