@@ -1,3 +1,4 @@
 ---
 site: blogdown:::blogdown_site
+<meta name="google-site-verification" content="jr1S046I46XDcpXCvvyYBajcxbiZj_oCGKfICJMEo9Y" />
 ---
