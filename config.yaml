@@ -18,6 +18,10 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
+marketing:
+  google_analytics: "G-ZJTVPMLMXK"
+  google_tag_manager: "G-ZJTVPMLMXK"
+  google_site_verification: "jr1S046I46XDcpXCvvyYBajcxbiZj_oCGKfICJMEo9Y"
 permalinks:
   authors: /author/:slug/
   categories: /category/:slug/
